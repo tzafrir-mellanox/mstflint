@@ -201,3 +201,6 @@ MSTFLINT Package - Firmware Burning and Diagnostics Tools
         mstflint -d 02:00.0 q
         mstvpd 02:00.0
 
+13) Fixes:
+    Patches and pull requests are welcomed. They need to be submitted
+    vs. the branch master_devel.
